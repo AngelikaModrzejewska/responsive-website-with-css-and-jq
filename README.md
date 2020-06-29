@@ -6,6 +6,6 @@ The website has a welcome header and 4 other sections. To reach these sections y
 
 * media-queries (Mobile First), tested for max. viewport width 1280px
 * keyframes-animations (header shake-button 'see my portfolio', arrow-button)
-* jquery (interactive navigation on scroll and on click, arrow-button scroll the page to the second section on mouseover)
+* jquery (interactive navigation on scroll and on click, arrow-button scrolls the page to the second section on mouseover)
 
 Pictures: https://pixabay.com/
